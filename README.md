@@ -1,6 +1,6 @@
 # My studies while learning Python
-1) Rechner
-2) Komfortabler Hand
-3) Entscheidungsbaum
-4) Wörterbuch Italienisch - Türkisch
-5) Wort Ableitung
+1) Calculater
+2) Left Right Hand
+3) Decision Tree
+4) Dictionary Italienisch - Türkisch
+5) Word Derivation
